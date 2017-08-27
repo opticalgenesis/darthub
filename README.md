@@ -3,15 +3,7 @@
 A library for Dart developers. It is awesome.
 
 ## Usage
-
-A simple usage example:
-
-    import 'package:darthub/darthub.dart';
-
-    main() {
-      var awesome = new Awesome();
-    }
-
+WIP
 ## Features and bugs
 
 Please file feature requests and bugs at the [issue tracker][tracker].
